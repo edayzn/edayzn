@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Eda
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning OOP
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me eda.yzn5@gmail.com
 
 <!---
