@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eda YAZAN AYAN
+- 👋 Hi, I’m Eda
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning OOP
 - 💞️ I’m looking to collaborate on ...
